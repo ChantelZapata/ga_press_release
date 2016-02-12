@@ -1,0 +1,24 @@
+h1 {
+	color: #d22525;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 36px;
+}
+p {
+	color: #DDDDDD;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	margin-top: 20px;
+}
+ul {
+	color: #333333;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+}
+li {
+	border: solid 2px #D22525;
+	margin-bottom: 10px;
+}
+body {
+	margin: 20px;
+	background-color: #f3f3f3;
+}
